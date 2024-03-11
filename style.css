@@ -7,7 +7,7 @@
   margin-left: auto;
   margin-right: auto;
   top: 150px;
-  background-color: #d66192;
+  background-color: #e5889f;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -22,15 +22,15 @@
   border-left: 150px solid transparent;
   border-right: 150px solid transparent;
   border-bottom: 82px solid transparent; /* a little smaller */
-  border-top: 98px solid #f0f0f0; /* a little larger */
+  border-top: 98px solid #e5889f; /* a little larger */
   transform-origin: top;
   pointer-events: none;
 }
 
 .pocket {
-  border-left: 150px solid #ebb2ca;
-  border-right: 150px solid #ebb2ca;
-  border-bottom: 90px solid #e8a6c2;
+  border-left: 150px solid #f5bbc7;
+  border-right: 150px solid #f5bbc7;
+  border-bottom: 90px solid #e5a9b5;
   border-top: 90px solid transparent;
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 12px;
@@ -131,7 +131,7 @@
   top: 0;
   width: 50px;
   height: 80px;
-  background: #d9849b;
+  background: #b04761;
   border-radius: 50px 50px 0 0;
   transform: rotate(-45deg);
   transform-origin: 0 100%;
@@ -217,9 +217,9 @@ body {
   transition: all 0.1s linear;
   -webkit-appearance: none;
   background-color: transparent;
-  border: solid 2px #ebb2ca;
+  border: solid 2px #e5889f;
   border-radius: 4px;
-  color: #ebb2ca;
+  color: #e5889f;
   display: inline-block;
   font-size: 14px;
   text-transform: uppercase;
@@ -232,7 +232,7 @@ body {
 }
 
 .reset button:hover {
-  background-color: #ebb2ca;
+  background-color: #e5889f;
   color: #fff;
 }
 
