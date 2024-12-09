@@ -7,7 +7,7 @@
   margin-left: auto;
   margin-right: auto;
   top: 150px;
-  background-color: #e5889f;
+  background-color: #101446;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -22,15 +22,15 @@
   border-left: 150px solid transparent;
   border-right: 150px solid transparent;
   border-bottom: 82px solid transparent; /* a little smaller */
-  border-top: 98px solid #e5889f; /* a little larger */
+  border-top: 98px solid #101446; /* a little larger */
   transform-origin: top;
   pointer-events: none;
 }
 
 .pocket {
-  border-left: 150px solid #f5bbc7;
-  border-right: 150px solid #f5bbc7;
-  border-bottom: 90px solid #e5a9b5;
+  border-left: 150px solid #54588e;
+  border-right: 150px solid #54588e;
+  border-bottom: 90px solid #323454;
   border-top: 90px solid transparent;
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 12px;
@@ -63,7 +63,7 @@
   left: 10%;
   width: 80%;
   height: 14%;
-  background-color: #EEEFF0;
+  background-color: #bdbec4;
 }
 
 .words.line1 {
